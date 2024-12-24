@@ -45,7 +45,7 @@ async function getBaseApi(url) {
     return {
       endpoint: null,
       message:
-        "https://t.me/D4rkCipherX",
+        "https://t.me/forestarmy",
     };
   }
 }
