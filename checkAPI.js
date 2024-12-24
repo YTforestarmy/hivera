@@ -16,7 +16,7 @@ async function checkBaseUrl() {
     return {
       endpoint: settings.BASE_URL,
       message:
-        "https://t.me/D4rkCipherX",
+        "https://t.me/forestarmy",
     };
   }
 }
@@ -38,7 +38,7 @@ async function getBaseApi(url) {
       return {
         endpoint: null,
         message:
-          "https://t.me/D4rkCipherX",
+          "https://t.me/forestarmy",
       };
     }
   } catch (e) {
