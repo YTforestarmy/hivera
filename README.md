@@ -7,7 +7,7 @@
 - Proxy Support
 - Multiple Account
 
-## COOMANDS
+## COMMANDS 
 ```
 pkg install nodejs-lts
 ```
