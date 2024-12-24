@@ -15,7 +15,7 @@ pkg install nodejs-lts
 pkg install git
 ```
    ```bash
-   git clone https://github.com/mosibur1/hivera.git
+   git clone https://github.com/ytforestarmy/hivera.git
    ```
    ```bash
    cd hivera
